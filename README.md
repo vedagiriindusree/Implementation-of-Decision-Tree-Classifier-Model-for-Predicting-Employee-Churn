@@ -96,6 +96,5 @@ print("Reg No:212223230236")
 
 ![image](https://github.com/user-attachments/assets/02f7721b-be89-4e85-af6a-c70f9b7d3d34)
 
-
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
