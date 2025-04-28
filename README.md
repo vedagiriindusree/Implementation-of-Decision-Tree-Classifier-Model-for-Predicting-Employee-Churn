@@ -62,6 +62,8 @@ accuracy=metrics.accuracy_score(y_test,y_pred)
 accuracy
 
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
+print("Name:Vedagiri Indu sree")
+print("Reg No:212223230236")
 ```
 ## Output:
 ![image](https://github.com/user-attachments/assets/b3d0b8f2-73a4-4716-841a-29e05b3b92b0)
@@ -81,6 +83,9 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ![image](https://github.com/user-attachments/assets/cf5fd279-f982-40cd-aad0-217f67c28b53)
 
 ![image](https://github.com/user-attachments/assets/94fe16e3-c72a-4d40-a909-af97b6188f4c)
+
+![image](https://github.com/user-attachments/assets/02f7721b-be89-4e85-af6a-c70f9b7d3d34)
+
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
